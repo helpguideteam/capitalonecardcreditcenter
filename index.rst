@@ -7,23 +7,25 @@ visit **capitalone.com/activate** official portal to activate your new or replac
 
 .. toctree::
    :maxdepth: 1
-   :caption: Blog Posts
+   :caption: 📄 Blog Posts
 
    capitalone-activate
    capitalone-mobile-activation
    capitalone-troubleshooting
 
 
-📌 Latest Blog Posts
+📰 Latest Blog Posts
 ---------------------
+
+Here are our most recent articles to help you activate and troubleshoot your Capital One card:
+
 
 🔗 `How to Activate Capital One Card at CapitalOne.com/activate <https://capitalonehelp-center.readthedocs.io/en/latest>`_
 
 *By Leren – Published June 20, 2025*  
+👉 A complete step-by-step guide to activating your Capital One card using the official website. Learn how to activate via desktop or mobile, and fix common issues.
 
-A complete step-by-step guide to activating your Capital One card via the official website. Includes desktop and mobile steps plus tips for common issues.
-
-
+---
 
 
 About the Author
