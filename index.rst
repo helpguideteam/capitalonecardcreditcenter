@@ -1,7 +1,7 @@
 To Begin Capitalone.com/activate – Activate Your Capital One Card Online
 ================================================================
 
-Visit `Capitalone.com/activate <how-to-activate-a-new-credit-card.rst>`_ official portal to activate your new or replacement Capital One card. When you receive a new or replacement credit card, you’ll need to activate it by confirming the 3-digit security code
+Visit `Capitalone.com/activate <https://www.capitalone.com/activate>`_ official portal to activate your new or replacement Capital One card. When you receive a new or replacement credit card, you’ll need to activate it by confirming the 3-digit security code
 
 
 
