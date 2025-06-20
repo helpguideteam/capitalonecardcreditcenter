@@ -18,7 +18,9 @@ visit **capitalone.com/activate** official portal to activate your new or replac
 ---------------------
 
 🔗 `How to Activate Capital One Card at CapitalOne.com/activate <https://capitalonehelp-center.readthedocs.io/en/latest>`_
+
 *By Leren – Published June 20, 2025*  
+
 A complete step-by-step guide to activating your Capital One card via the official website. Includes desktop and mobile steps plus tips for common issues.
 
 
