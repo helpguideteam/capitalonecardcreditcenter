@@ -23,7 +23,7 @@ Here are our most recent articles to help you activate and troubleshoot your Cap
 🔗 `How to Activate Capital One Card at CapitalOne.com/activate <https://capitalonehelp-center.readthedocs.io/en/latest>`_
 
 *By Leren – Published June 20, 2025*  
-👉 A complete step-by-step guide to activating your Capital One card using the official website. Learn how to activate via desktop or mobile, and fix common issues.
+👉 Activate your new or replacement Capital One credit or debit card quickly and securely at Capitalone.com/activate. Follow step-by-step online instructions using your 3-digit CVV to start using your card instantly.
 
 ---
 
