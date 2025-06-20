@@ -7,11 +7,11 @@ visit **capitalone.com/activate** official portal to activate your new or replac
 
 .. toctree::
    :maxdepth: 1
-   :caption: 📄 Blog Posts
+   :caption: 📄 Capital One Card Blog Posts
 
-   capitalone-activate
-   capitalone-mobile-activation
-   capitalone-troubleshooting
+  How to Activate Capital One Card at CapitalOne.com/activate
+   Capitalone.com/activate - Easy Steps to Activate Your Capital One Credit Card Online
+   Capitalone.com/activate - Secure Portal to Activate Capital One Credit Card Online
 
 
 📰 Latest Blog Posts
