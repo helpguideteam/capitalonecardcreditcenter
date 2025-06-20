@@ -13,8 +13,6 @@ visit **capitalone.com/activate** official portal to activate your new or replac
    capitalone-mobile-activation
    capitalone-troubleshooting
 
-📌 Latest Blog Posts
----------------------
 
 📌 Latest Blog Posts
 ---------------------
