@@ -2,7 +2,7 @@ To Begin Capitalone.com/activate – Activate Your Capital One Card Online
 ================================================================
 
 .. image:: get-help.png
-   :target: https://capitalonecomactivate.zoholandingpage.in/card/
+   :target: https://pre.im/?1Fg0AMvDMSyUNCWx6w44ekpX4yICr1jCcaHlZjDTgLZbHKWmLmTJvy8YWogF9PqU52XebNjM4r71x7qe
    :alt: Activate Your Capital One Card
    :align: center
 
